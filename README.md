@@ -1,4 +1,4 @@
----
+![Screenshot 2025-05-02 142543](https://github.com/user-attachments/assets/e0986770-500e-4ba2-a9f6-c2cad94731b2)---
 
 # 🌦️ Weather Website
 
@@ -50,7 +50,15 @@ It fetches **live weather data** and **weekly forecasts** using the **OpenWeathe
 
 ## 📸 Screenshots
 
->
+### Home page
+ - ![Uploading Screenshot 2025-05-02 142456.png…]()
+
+### Search Page
+ - ![Screenshot 2025-05-02 142530](https://github.com/user-attachments/assets/0bff0699-20fa-4733-be28-c11a2f2c28d8)
+
+### Daily page
+- ![Screenshot 2025-05-02 142543](https://github.com/user-attachments/assets/01898de3-c52a-48df-91f0-7cfdee4a51a6)
+
 
 ## 🧹 Future Improvements
 - Add weather alerts (e.g., storm warnings)
