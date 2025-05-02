@@ -51,14 +51,13 @@ It fetches **live weather data** and **weekly forecasts** using the **OpenWeathe
 ## 📸 Screenshots
 
 ### Home page
- - ![Uploading Screenshot 2025-05-02 142456.png…]()
+ - ![Home](https://github.com/user-attachments/assets/7ebd6e27-dce8-480b-8761-55508ba780f3)
 
 ### Search Page
- - ![Screenshot 2025-05-02 142530](https://github.com/user-attachments/assets/0bff0699-20fa-4733-be28-c11a2f2c28d8)
+ - ![Search](https://github.com/user-attachments/assets/d7f31e0f-1563-4285-9d10-9d89d318fe6f)
 
 ### Daily page
-- ![Screenshot 2025-05-02 142543](https://github.com/user-attachments/assets/01898de3-c52a-48df-91f0-7cfdee4a51a6)
-
+- ![Daily](https://github.com/user-attachments/assets/a339f666-08e6-445c-bedb-130ea5552b47)
 
 ## 🧹 Future Improvements
 - Add weather alerts (e.g., storm warnings)
